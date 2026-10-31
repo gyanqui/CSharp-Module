@@ -8,7 +8,7 @@
 
 -->
 
-- \*\* C# Module is created for personal learning on C#, and to help others interested. In this repository I will start from scratch and see where it takes me on programming with C#.
+- ** C# Module is created for personal learning on C#, and to help others interested. In this repository I will start from scratch and see where it takes me on programming with C#.
 
 - \*\* I will create an Personal Task Manager that helps people keep track of their goals and responsabilities, as well as finding balance in all life aspects.
 
