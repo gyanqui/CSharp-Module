@@ -8,9 +8,9 @@
 
 -->
 
-- ** C# Module is created for personal learning on C#, and to help others interested. In this repository I will start from scratch and see where it takes me on programming with C#.
+- C# Module is created for personal learning on C#, and to help others interested. In this repository I will start from scratch and see where it takes me on programming with C#.
 
-- \*\* I will create an Personal Task Manager that helps people keep track of their goals and responsabilities, as well as finding balance in all life aspects.
+- I will create an Personal Task Manager that helps people keep track of their goals and responsabilities, as well as finding balance in all life aspects.
 
 <!-- {Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
 -->
@@ -24,20 +24,24 @@
 
 ## Tools Used
 
-- \*\* VSCode
-- \*\* Github
+- VSCode
+- Github
 
 <!-- {Describe the programming language that you used}
 -->
 
 ## Programming Language:
 
-- \*\* C#
+- C#
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
+<!--  {Make a list of websites that you found helpful in this project}
 
-<!-- * [Web Site Name](http://url.link.goes.here)
+* [Web Site Name](http://url.link.goes.here)
 * [Web Site Name](http://url.link.goes.here)
 -->
+
+##Useful Lisks:
+
+# Ongoing
